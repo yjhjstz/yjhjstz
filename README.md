@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Jianghua Yang!  
 
-<!--
-**yjhjstz/yjhjstz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Database Specialist | Open Source Enthusiast**  
+💼 **Apache PMC member of Cloudberry Database**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me  
+- 🎯 I specialize in **Greenplum Database (GPDB)**, PostgreSQL, and distributed database optimization.  
+- 🛠️ Skilled in **Kubernetes**, query optimization, and troubleshooting high-performance data systems.  
+- 🌱 Currently exploring **runtime filters** and advanced **data distribution** techniques.  
+- 💡 Passionate about **solving real-world data challenges** and contributing to open-source projects.  
+
+---
+
+
+
+### Connect with Me  
+- 📫 **Email:** [yjhjstz@gmail.com](mailto:yjhjstz@gmail.com)  
+
+---
+
+### Projects Highlights  
+- 🛠️ **[Cloudberry](apache/cloudberry):** Open source alternative to Greenplum Database.  
+- 📊 **[Node.js Book](https://github.com/yjhjstz/deep-into-node):** Deep into Node.js.
+
+---
+
+### Fun Fact  
+🌟 "Every query tells a story—my job is to make it a masterpiece."  

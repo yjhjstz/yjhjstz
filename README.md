@@ -6,9 +6,8 @@
 ---
 
 ### About Me  
-- 🎯 I specialize in **Greenplum Database (GPDB)**, PostgreSQL, and distributed database optimization.  
+- 🎯 I specialize in **Greenplum Database (GPDB)**, PostgreSQL, MongoDB and distributed database optimization.  
 - 🛠️ Skilled in **Kubernetes**, query optimization, and troubleshooting high-performance data systems.  
-- 🌱 Currently exploring **runtime filters** and advanced **data distribution** techniques.  
 - 💡 Passionate about **solving real-world data challenges** and contributing to open-source projects.  
 
 ---

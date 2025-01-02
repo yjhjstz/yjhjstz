@@ -21,7 +21,7 @@
 ---
 
 ### Projects Highlights  
-- 🛠️ **[Cloudberry](apache/cloudberry):** Open source alternative to Greenplum Database.  
+- 🛠️ **[Cloudberry](https://github.com/apache/cloudberry):** Open source alternative to Greenplum Database.  
 - 📊 **[Node.js Book](https://github.com/yjhjstz/deep-into-node):** Deep into Node.js.
 
 ---

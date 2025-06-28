@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jianghua Yang!  
 
 🚀 **Database Specialist | Open Source Enthusiast**  
-💼 **Apache PMC member of Cloudberry Database**
+💼 **Apache PPMC member of Cloudberry Database**
 
 ---
 
